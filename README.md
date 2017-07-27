@@ -1,1 +1,1 @@
-# prq2017
+# Replication data for Ocampo (2017)
